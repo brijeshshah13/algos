@@ -28,7 +28,7 @@ const arguments = process.argv;
 
 //         const firstNumber = numbersArray[i];
 
-//         for (let j = 0; j < numbersArray.length; j++) {
+//         for (let j = i+1; j < numbersArray.length; j++) {
 
 //             const secondNumber = numbersArray[j];
 
